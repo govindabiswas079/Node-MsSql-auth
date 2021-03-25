@@ -1,0 +1,26 @@
+{
+    "mailer":{
+        "host":"mocha3027.mochahost.com",
+        "port":465,
+        "username":"mail@weveando.com",
+        "password":"Shishibukai77"
+    },
+    "database":{
+        "database":"Canvas",
+        "server":"DESKTOP-ELP6PPS",
+        "user":"sa",
+        "password":"Memeo123",
+        "options":{
+            "trustedConnection":true,
+            "enableArithAbort":false
+        }
+    },
+    "authorization":{
+        "secret":"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb2RlIjoibG95cGEiLCJuYW1lIjoiU2lzdGVtYSBMT1lQQSIsImF1dGhvciI6IkRhbmllbCBRdWVzYWRhIn0.HpfKjFtuJwXGlWojEx27sXB7KJEF7p5Ti_p73EdkDMx0nlqhHk5LLoUCOGHL-UJEWJQWkxXUPQ5HX-zUPjZEcw",
+        "expiration":"10m",
+        "algorithm":"HS512"
+    },
+    "listeningPort":80,
+    "domain":"http://192.168.0.109",
+    "publicFolder":"public"
+}
