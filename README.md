@@ -8,5 +8,5 @@ ReactJS Frontend
 NodeJS and MSSQL backend
 
 
-##Specifications
+## Specifications
 The authentication method used is Json Web Tokens(JWT)
